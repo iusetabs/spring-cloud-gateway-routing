@@ -55,6 +55,6 @@ spec:
     - port: {{ $containerPort }}
       protocol: TCP
       targetPort: {{ $hostPort }}
-      nodePort: {{ $containerPort }}
+      nodePort: {{ $nodePort }}
   selector:
     app: {{ $deploymentName }}
