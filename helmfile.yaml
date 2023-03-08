@@ -3,4 +3,6 @@ releases:
         - name: mobile-cloud-gateway
           chart: ./mobile-cloud-gateway
           installed: true
-            
+        - name: aws-alb
+          chart: ./aws-alb
+          installed: true
