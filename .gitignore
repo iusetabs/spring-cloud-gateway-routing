@@ -29,3 +29,7 @@ mvnw
 mvnw.cmd
 .mvn/wrapper/maven-wrapper.properties
 .mvn/wrapper/MavenWrapperDownloader.java
+spring-cloud-gateway/mvnw
+spring-cloud-gateway/mvnw.cmd
+spring-cloud-gateway/.mvn/wrapper/maven-wrapper.jar
+spring-cloud-gateway/.mvn/wrapper/maven-wrapper.properties
